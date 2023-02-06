@@ -1,3 +1,10 @@
+/* 
+ * File:   application.c
+ * Author: Mohamed_Nagy
+ * https://www.linkedin.com/in/mohamednagyofficial/
+ * Created on January 27, 2023, 8:41 PM
+ */
+
 #include "application.h"
 #include "MCAL_Layer/I2C/hal_i2c.h"
 Std_ReturnType ret = E_NOT_OK;
